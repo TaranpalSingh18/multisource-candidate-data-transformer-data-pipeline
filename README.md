@@ -152,6 +152,8 @@ All endpoints are served by the FastAPI app in `backend/app/main.py`.
 - **Candidate selector**: buttons for each candidate ID let you re-project with the current config.
 - **Result panel**: pretty-printed JSON output for quick inspection.
 
+![Output](basic_output.png)
+
 The UI is intentionally minimal and focused on making the pipeline observable, not on visual polish.
 
 ---
