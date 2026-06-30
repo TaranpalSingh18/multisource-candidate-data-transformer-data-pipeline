@@ -1,0 +1,51 @@
+### Global
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+
+### Python / Backend
+backend/__pycache__/
+backend/**/*.py[cod]
+backend/*.sqlite3
+backend/.venv/
+backend/venv/
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+backend/.ruff_cache/
+
+# Local env & config
+backend/.env
+backend/.env.*
+
+# Uploaded / generated data (not source)
+backend/uploads/
+backend/input/
+
+# Alembic / migrations caches
+backend/alembic/*.log
+
+### Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.eslintcache
+frontend/.turbo/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+### IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+### OS / Misc
+~$*
+*.swp
+*.swo
+

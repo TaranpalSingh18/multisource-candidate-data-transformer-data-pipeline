@@ -1,0 +1,6 @@
+candidate_ref,full_name,email,phone,location,headline,skills
+csv-1,Alice Doe,alice@example.com,+1 415 555 2671,San Francisco,Senior Engineer,"Python,React"
+csv-2,Bob Smith,bob@example.com,+44 20 7946 0958,London,Backend Engineer,"Go,PostgreSQL,Docker"
+csv-3,Carla Martínez,carla@example.com,+34 91 123 4567,Madrid,Data Scientist,"Python,TensorFlow,SQL"
+csv-4,Dev Patel,dev@example.com,+91 98765 43210,Bangalore,Fullstack Engineer,"React,Node.js,TypeScript"
+ 

@@ -1,0 +1,13 @@
+{
+  "candidates": [
+    {
+      "id": "ats-1",
+      "name_full": "Bob Smith",
+      "email_primary": "bob@example.com",
+      "phone_mobile": "+44 20 7946 0958",
+      "location_city": "London",
+      "headline": "Backend Engineer"
+    }
+  ]
+}
+

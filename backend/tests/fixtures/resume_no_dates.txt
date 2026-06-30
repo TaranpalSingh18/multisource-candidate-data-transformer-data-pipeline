@@ -1,0 +1,15 @@
+Jane Doe
+Senior Software Engineer
+
+Experience:
+- Company A, Software Engineer
+- Company B, Senior Software Engineer
+
+Education:
+- University X, BSc Computer Science
+
+Skills:
+- Python
+- FastAPI
+- PostgreSQL
+

@@ -1,0 +1,29 @@
+[project]
+name = "candidate-data-pipeline-backend"
+version = "0.1.0"
+description = "Backend for multi-source candidate data transformer (FastAPI + SQLAlchemy + Alembic + Pydantic v2)"
+readme = "../README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.111.0",
+  "uvicorn[standard]>=0.29.0",
+  "sqlalchemy>=2.0.30",
+  "alembic>=1.13.1",
+  "psycopg2-binary>=2.9.9",
+  "pydantic>=2.7.0",
+  "pydantic-settings>=2.2.1",
+  "phonenumbers>=8.13.0",
+  "python-dateutil>=2.9.0.post0",
+  "pycountry>=24.6.1",
+  "rapidfuzz>=3.9.0",
+  "httpx>=0.27.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+pythonpath = ["app"]
+testpaths = ["tests"]
+

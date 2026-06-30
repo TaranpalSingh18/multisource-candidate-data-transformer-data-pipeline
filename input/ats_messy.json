@@ -1,0 +1,29 @@
+{
+  "candidates": [
+    {
+      "id": "ats-1 ",
+      "name_full": "Alice Doe",
+      "email_primary": "alice@example.com",
+      "phone_mobile": " +1 (415) 555-2671 ",
+      "location_city": "SF Bay Area",
+      "headline": "Senior Software Eng @ BigCo"
+    },
+    {
+      "id": "ats-2",
+      "name_full": "Robert Smith",
+      "email_primary": "bob@example.com",
+      "phone_mobile": "",
+      "location_city": "London",
+      "headline": "Backend Engineer (Go, SQL)"
+    },
+    {
+      "id": "ats-3",
+      "name_full": "Carla   Martínez",
+      "email_primary": null,
+      "phone_mobile": "+34 91 123 45 67",
+      "location_city": "Madrid",
+      "headline": "Data Scientist / ML"
+    }
+  ]
+}
+

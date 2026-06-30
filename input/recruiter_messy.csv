@@ -1,0 +1,6 @@
+candidate_ref,full_name,email,phone,location,headline,skills
+csv-1,"  Alice   Doe  ","alice@example.com  ","415 555 2671","San francisco, CA","Sr. Eng.","Python / REACT ;  "
+csv-2,Bob S.,"bob.smith+old@example.com; bob@example.com","+44 (0)20-7946-0958","London, UK","Backend Eng","go | Postgres ; docker"
+csv-3,,"no-email","","Bangalore","Engineer",""
+csv-4,"Carla  MARTINEZ","  carla@example.com ","+34 911234567","Madrid, Spain","Data scientist","python, tensorflow , SQL,  "
+csv-5,"Dev P.","dev@example.com","+91-98-765-43210","Bengaluru, KA","Full stack","ReactJS, node js, Typescript"
