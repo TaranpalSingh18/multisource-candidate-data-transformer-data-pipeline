@@ -145,6 +145,7 @@ All endpoints are served by the FastAPI app in `backend/app/main.py`.
 
 ## 5. Frontend (quick tour)
 
+![Frontend](ss.png)
 - **File uploads**: send files to `/uploads/{source_type}` and show the server path you can reuse for ingestion.
 - **Config editor**: textarea pre-populated with the default projection config (you can tweak and re-run).
 - **Run button**: triggers `POST /candidates/ingest` then immediately `POST /candidates/{id}/project` for the first candidate.
